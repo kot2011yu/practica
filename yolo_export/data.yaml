@@ -1,0 +1,7 @@
+path: /kaggle/working/yolo_export
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+names: ['doctype', 'participant_name', 'eventname', 'year', 'organization', 'city', 'position']
